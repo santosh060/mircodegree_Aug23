@@ -2,8 +2,10 @@
 This command is used to clone the repository 
 - git clone https://github.com/Shanascloud/mircodegree_Aug23.git
 
-
-
 - git add --all
 
 - git commit -m "commit Message"
+
+- git push "repo_link"
+
+- git pull "repo_link"
