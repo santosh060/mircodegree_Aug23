@@ -1,0 +1,9 @@
+
+to check the branches 
+- git branch
+
+to create and checkout to newbranch
+- git checkout -b "new_test"
+
+to switch to other branches
+- git checkout "branchname"

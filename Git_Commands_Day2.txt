@@ -4,6 +4,9 @@ To download the git client tool
 
 - git init 
 
+To know the status of the Git operations
+- Git Status
+
 This command is used to clone the repository 
 - git clone https://github.com/Shanascloud/mircodegree_Aug23.git
 
