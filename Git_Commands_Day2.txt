@@ -1,7 +1,6 @@
 To download the git client tool 
 - https://git-scm.com/download/win
 
-
 - git init 
 
 To know the status of the Git operations
