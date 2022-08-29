@@ -6,4 +6,8 @@ to Merge the branch with main branch, we need to switch to the main
 
 to exit the log 
 - q
+
+
+To revert the changes 
+- git revert "Commitid"
  
