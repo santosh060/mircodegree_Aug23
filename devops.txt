@@ -1,1 +1,0 @@
-As a devops enginer, i have created a test file for running the build automatically 
