@@ -1,0 +1,7 @@
+-git add -- all
+-git branch
+-git status
+-git commit -m "first massage"
+-git push link
+-git pull link
+-git btranch checkout -b  " branch name"
