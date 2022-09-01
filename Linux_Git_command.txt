@@ -9,3 +9,25 @@ Change directory
 
 to insatll git on linux
 - yum install git
+
+
+To login to root 
+- sudo su
+
+To udpate the packages
+- yum update 
+
+-----------------------------------------------------Maven Installation in Amazon Linux-----------------------------------------------------------------------------
+First we need to install java since Maven has a dependency on Java 
+
+to check java version
+- java --version
+
+To Insatll Java 
+- yum install java-11
+
+To Insatll Maven 
+- yum install maven
+
+to check java version
+- mvn --version
