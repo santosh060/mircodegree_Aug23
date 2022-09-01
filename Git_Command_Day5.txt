@@ -1,2 +1,23 @@
 to Merge the branch with main branch, we need to switch to the main 
  - get merge "branch name"
+ 
+  to show the logs 
+  
+- git log 
+
+to exit the log 
+- q
+
+
+To revert the changes 
+- git revert "Commitid"
+
+
+git cherry-pick is a powerful command that enables arbitrary Git commits to be picked by reference and appended to the current working HEAD
+- git cherry-pick "hash value"
+
+Reference - https://www.golinuxcloud.com/git-cherry-pick-examples/
+
+Rebasing is the process of moving or combining a sequence of commits to a new base commit. from destination  to updated branch
+- git rebase "branchbase"
+ 
