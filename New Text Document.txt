@@ -5,3 +5,11 @@
 -git push link
 -git pull link
 -git btranch checkout -b  " branch name"
+
+
+
+git git git git -----------
+
+
+
+----------------------------------------------------------
